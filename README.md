@@ -7,4 +7,5 @@ Generates GROMACS topology and parameter files for mixed random copolymer system
 4. Generate polymer distributions
 
 Detailed info with diagrams provided in the jupyter notebook 
+![image](https://github.com/user-attachments/assets/91fcdae2-6ff3-41cf-a2e2-92b5c36f1b28)
 
